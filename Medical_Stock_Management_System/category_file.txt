@@ -1,0 +1,6 @@
+1001	;headache for adults;
+1001	1002	1003	1009	-1
+1002	;stomach pains for adults;
+1005	1006	1008	-1
+1003	;fever for children;
+1004	1005	-1

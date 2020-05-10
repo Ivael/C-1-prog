@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1557941607 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\implement_drug_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+
+1557876534 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\implement_sale_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1557939965 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\implement_supplier_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+
+1557942470 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\main.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1557909108 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\implement_category_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+
+1557536677 c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\header_file.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1557458360 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\file_management.c
+
+1557876118 c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\category_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557876118 c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\drug_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557937302 c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\supplier_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557876447 c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557762043 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\organisation_menu.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1557712039 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\sale_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1557712039 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\store_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1557712039 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\supplier_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1557807617 c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr mekontso\c_programming_project\medical_stock_management_system\single_sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560068742 source:c:\users\abdou\desktop\medical_stock_management_system\file_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1560072770 source:c:\users\abdou\desktop\medical_stock_management_system\implement_category_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+
+1559667854 c:\users\abdou\desktop\medical_stock_management_system\category_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Supplier_Header.h"
+	<math.h>
+
+1559650118 c:\users\abdou\desktop\medical_stock_management_system\drug_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560149138 source:c:\users\abdou\desktop\medical_stock_management_system\implement_sale_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559659424 c:\users\abdou\desktop\medical_stock_management_system\supplier_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1558690977 c:\users\abdou\desktop\medical_stock_management_system\sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557807618 c:\users\abdou\desktop\medical_stock_management_system\single_sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1559186298 source:c:\users\abdou\desktop\medical_stock_management_system\implement_supplier_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Category_Header.h"
+
+1559649209 source:c:\users\abdou\desktop\medical_stock_management_system\main.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559672236 source:c:\users\abdou\desktop\medical_stock_management_system\organisation_menu.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1560074048 source:c:\users\abdou\desktop\medical_stock_management_system\sale_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1560073372 source:c:\users\abdou\desktop\medical_stock_management_system\store_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559672114 source:c:\users\abdou\desktop\medical_stock_management_system\supplier_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1560147832 source:c:\users\abdou\desktop\medical_stock_management_system\implement_drug_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+

@@ -1,0 +1,522 @@
+# depslib dependency file v1.0
+1560068742 source:c:\users\abdou\desktop\medical_stock_management_system\file_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559667854 c:\users\abdou\desktop\medical_stock_management_system\category_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Supplier_Header.h"
+	<math.h>
+
+1559650118 c:\users\abdou\desktop\medical_stock_management_system\drug_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560275101 c:\users\abdou\desktop\medical_stock_management_system\supplier_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1558690977 c:\users\abdou\desktop\medical_stock_management_system\sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557807618 c:\users\abdou\desktop\medical_stock_management_system\single_sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560072770 source:c:\users\abdou\desktop\medical_stock_management_system\implement_category_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+
+1560245504 source:c:\users\abdou\desktop\medical_stock_management_system\implement_drug_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+
+1560245279 source:c:\users\abdou\desktop\medical_stock_management_system\implement_sale_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559186298 source:c:\users\abdou\desktop\medical_stock_management_system\implement_supplier_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Category_Header.h"
+
+1559649209 source:c:\users\abdou\desktop\medical_stock_management_system\main.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1560337354 source:c:\users\abdou\desktop\medical_stock_management_system\organisation_menu.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1560245340 source:c:\users\abdou\desktop\medical_stock_management_system\sale_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1560245279 source:c:\users\abdou\desktop\medical_stock_management_system\store_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559672114 source:c:\users\abdou\desktop\medical_stock_management_system\supplier_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559649210 source:c:\users\abdou\documents\medical_stock_management_system\main.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559667856 c:\users\abdou\documents\medical_stock_management_system\category_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Supplier_Header.h"
+	<math.h>
+
+1561392656 c:\users\abdou\documents\medical_stock_management_system\drug_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560275102 c:\users\abdou\documents\medical_stock_management_system\supplier_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1558690978 c:\users\abdou\documents\medical_stock_management_system\sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557807618 c:\users\abdou\documents\medical_stock_management_system\single_sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1561489598 source:c:\users\abdou\documents\medical_stock_management_system\file_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561489598 source:c:\users\abdou\documents\medical_stock_management_system\implement_category_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+
+1561495664 source:c:\users\abdou\documents\medical_stock_management_system\implement_drug_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+
+1561706040 source:c:\users\abdou\documents\medical_stock_management_system\implement_sale_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561490636 source:c:\users\abdou\documents\medical_stock_management_system\implement_supplier_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Category_Header.h"
+
+1561490712 source:c:\users\abdou\documents\medical_stock_management_system\organisation_menu.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561705331 source:c:\users\abdou\documents\medical_stock_management_system\sale_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561491708 source:c:\users\abdou\documents\medical_stock_management_system\store_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561490780 source:c:\users\abdou\documents\medical_stock_management_system\supplier_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562060127 source:c:\users\hp\desktop\medical_stock_management_system\file_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559667856 c:\users\hp\desktop\medical_stock_management_system\category_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Supplier_Header.h"
+	<math.h>
+
+1561392656 c:\users\hp\desktop\medical_stock_management_system\drug_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560275102 c:\users\hp\desktop\medical_stock_management_system\supplier_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1558690978 c:\users\hp\desktop\medical_stock_management_system\sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557807618 c:\users\hp\desktop\medical_stock_management_system\single_sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1562060562 source:c:\users\hp\desktop\medical_stock_management_system\implement_category_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+
+1562060125 source:c:\users\hp\desktop\medical_stock_management_system\implement_drug_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+
+1562017544 source:c:\users\hp\desktop\medical_stock_management_system\implement_sale_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562057440 source:c:\users\hp\desktop\medical_stock_management_system\implement_supplier_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Category_Header.h"
+
+1559649210 source:c:\users\hp\desktop\medical_stock_management_system\main.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562013137 source:c:\users\hp\desktop\medical_stock_management_system\organisation_menu.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562012110 source:c:\users\hp\desktop\medical_stock_management_system\sale_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562063079 source:c:\users\hp\desktop\medical_stock_management_system\store_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562059083 source:c:\users\hp\desktop\medical_stock_management_system\supplier_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561993947 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\file_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559667856 c:\users\hp\desktop\yankam yvael\medical_stock_management_system\category_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Supplier_Header.h"
+	<math.h>
+
+1561392656 c:\users\hp\desktop\yankam yvael\medical_stock_management_system\drug_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560275102 c:\users\hp\desktop\yankam yvael\medical_stock_management_system\supplier_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1558690978 c:\users\hp\desktop\yankam yvael\medical_stock_management_system\sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557807618 c:\users\hp\desktop\yankam yvael\medical_stock_management_system\single_sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1561993947 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\implement_category_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+
+1561993947 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\implement_drug_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+
+1561993947 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\implement_sale_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561994065 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\implement_supplier_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Category_Header.h"
+
+1559649210 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\main.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561994524 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\organisation_menu.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561993947 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\sale_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561993947 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\store_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1561993947 source:c:\users\hp\desktop\yankam yvael\medical_stock_management_system\supplier_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562060127 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\file_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559667856 c:\users\hp\documents\yankam yvael\medical_stock_management_system\category_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Supplier_Header.h"
+	<math.h>
+
+1561392656 c:\users\hp\documents\yankam yvael\medical_stock_management_system\drug_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560275102 c:\users\hp\documents\yankam yvael\medical_stock_management_system\supplier_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1558690978 c:\users\hp\documents\yankam yvael\medical_stock_management_system\sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557807618 c:\users\hp\documents\yankam yvael\medical_stock_management_system\single_sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1562060562 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\implement_category_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+
+1562060125 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\implement_drug_management.c
+	"Category_Header.h"
+	"Drug_Header.h"
+
+1562017544 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\implement_sale_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562057440 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\implement_supplier_management.c
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Category_Header.h"
+
+1559649210 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\main.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562013137 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\organisation_menu.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562012110 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\sale_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562063079 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\store_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1562059083 source:c:\users\hp\documents\yankam yvael\medical_stock_management_system\supplier_operations.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559649210 source:c:\users\hp\desktop\algonquin college\medical_stock_management_system\main.c
+	"Category_Header.h"
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Sale_Header.h"
+
+1559667856 c:\users\hp\desktop\algonquin college\medical_stock_management_system\category_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Supplier_Header.h"
+	<math.h>
+
+1561392656 c:\users\hp\desktop\algonquin college\medical_stock_management_system\drug_header.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1560275102 c:\users\hp\desktop\algonquin college\medical_stock_management_system\supplier_header.h
+	"Drug_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1558690978 c:\users\hp\desktop\algonquin college\medical_stock_management_system\sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1557807618 c:\users\hp\desktop\algonquin college\medical_stock_management_system\single_sale_header.h
+	"Drug_Header.h"
+	"Supplier_Header.h"
+	"Single_sale_Header.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+

@@ -1,0 +1,10 @@
+1002	;monda jo;	;columbia|;	688452136
+1008	-1
+1003	;noumb;	;emanabia|;	665412365
+1009	-1
+1004	;yan;	;soanabia|;	657441236
+1004	-1
+1001	;yasmi;	;essosbia|;	655377116
+1002	-1
+1005	;yazid ;	;mvolyea|;	699542136
+1006	-1
